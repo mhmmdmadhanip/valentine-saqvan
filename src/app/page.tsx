@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div className="min-h-screen min-w-screen bg-white flex flex-col justify-center items-center relative overflow-hidden px-6 sm:px-20 py-8 home">
       <div className=" bg-white  w-full sm:max-w-[23rem] h-[18rem] sm:h-[23rem] relative rounded-[1.875rem]">
-        <Image src="/landing.gif" alt="" className=" w-full h-full object-cover p-4 rounded-[1.875rem]" fill/>
+        <Image src="/landing.gif" alt="Valentine Gif" className=" w-full h-full object-cover p-4 rounded-[1.875rem]" fill/>
       </div>
 
       <div className="text-center mb-4 text-white mt-6 text-[2rem] sm:text-[2.5rem]">
